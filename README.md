@@ -1,3 +1,7 @@
+# differences compared to 2.2.0-beta
+
+Added paging directive (which required bootsrap from twitter as well)
+
 # node-red-dashboard
 
 This module provides a set of nodes in Node-RED to quickly create a live data
