@@ -5,14 +5,14 @@ icon.png
 index.html
 css/app.min.css
 js/app.min.js
-fonts/FontAwesome.otf
 fonts/fontawesome-webfont.eot
 fonts/fontawesome-webfont.svg
 fonts/fontawesome-webfont.ttf
 fonts/fontawesome-webfont.woff
 fonts/fontawesome-webfont.woff2
+fonts/FontAwesome.otf
 
 NETWORK:
 *
 
-# hash: 473985a2a95180c83f11100996f5063b1d0c29ba0a16b0b98a4367c4c1a44f23
+# hash: db96bdc6e53cf1c20eed045623411469accb267fd2f0b48d028cd28d883519ef
