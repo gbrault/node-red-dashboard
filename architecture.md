@@ -33,3 +33,5 @@ This widget is very pleasent to browse big data spaces like we enconter browsing
 ```javascript
 var app = angular.module('ui', ['ngMaterial', 'ngMdIcons', 'ngSanitize', 'sprintf', 'chart.js', 'bw.paging']);
 ```
+As you can see, by default, node-red dashboard use 'ngMaterial', 'ngMdIcons', 'ngSanitize', 'sprintf' directives and 'chart.js' is new with this release (2.2.0-beta)
+For more information about the bw.paging directive, please, [see](https://github.com/brantwills/Angular-Paging)
