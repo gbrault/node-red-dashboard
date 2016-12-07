@@ -49,6 +49,6 @@ bootsrtap is providing the widget (js and css) side
 
 ```html
 <link rel="stylesheet" href="vendor/bootstrap/dist/css/bootstrap.min.css">
-     <!-- endbuild -->  <!-- This was existant  -->
+     <!-- endbuild -->  <-- This was existant  -->
 ```
 
