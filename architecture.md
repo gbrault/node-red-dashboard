@@ -35,3 +35,20 @@ var app = angular.module('ui', ['ngMaterial', 'ngMdIcons', 'ngSanitize', 'sprint
 ```
 As you can see, by default, node-red dashboard use 'ngMaterial', 'ngMdIcons', 'ngSanitize', 'sprintf' directives and 'chart.js' is new with this release (2.2.0-beta)
 For more information about the bw.paging directive, please, [see](https://github.com/brantwills/Angular-Paging)
+
+* Add resources needed by bw.paging: adding them to package.json: in the development section I have addes two npm package
+
+```json
+"angular-paging": "^2.2.2",
+"bootstrap":"^3.3.7"
+```
+angular paging is doing the paging script
+bootsrtap is providing the widget (js and css) side
+
+* We need then to add the resources in the index.html file
+
+```html
+<link rel="stylesheet" href="vendor/bootstrap/dist/css/bootstrap.min.css">
+     <!-- endbuild -->  <!-- This was existant  -->
+```
+
