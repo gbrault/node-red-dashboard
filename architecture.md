@@ -4,6 +4,8 @@ I wanted to add a new set of directive to dashboard dealing with a paging contro
 
 The result is that ![alt tag](https://raw.githubusercontent.com/brantwills/Angular-Paging/gh-pages/basicSample.png)
 
+Or that ![alt tag](https://raw.githubusercontent.com/brantwills/Angular-Paging/gh-pages/advancedSample.png)
+
 #File changes
 
 * README.md: warn that there are some changes compared to main stream
