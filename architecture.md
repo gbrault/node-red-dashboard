@@ -60,4 +60,8 @@ bootsrtap is providing the widget (js and css) side
 <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 ```
 
+# Building
 
+* in node-red-dashboard directory
+  * ```npm install``` to get all the necessary resources uploaded (node_modules directory)
+  * ```gulp``` to 'compile' all the resources into the dist directory
