@@ -47,8 +47,17 @@ bootsrtap is providing the widget (js and css) side
 
 * We need then to add the resources in the index.html file
 
+ * bootstrap css
 ```html
 <link rel="stylesheet" href="vendor/bootstrap/dist/css/bootstrap.min.css">
-     <!-- endbuild -->  <-- This was existant  -->
+     <!-- endbuild -->  <== This was existant
 ```
+ * bw.paging angular directives and boostrap javascript
+
+```html
+<!-- for paging -->
+<script src="vendor/angular-paging/dist/paging.min.js"></script>
+<script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+```
+
 
