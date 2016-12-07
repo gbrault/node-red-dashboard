@@ -65,3 +65,5 @@ bootstrap is providing the widget (js and css) side
 * in node-red-dashboard directory
   * ```npm install``` to get all the necessary resources uploaded (node_modules directory)
   * ```gulp``` to 'compile' all the resources into the dist directory
+  
+And beleive it or not: it works with no apparent side-effect: magic!
