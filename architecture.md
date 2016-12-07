@@ -6,6 +6,17 @@ The result is that ![alt tag](https://raw.githubusercontent.com/brantwills/Angul
 
 Or that ![alt tag](https://raw.githubusercontent.com/brantwills/Angular-Paging/gh-pages/advancedSample.png)
 
+And the directive can be as simple as that
+
+```html
+<div paging
+  page="35" 
+  page-size="10" 
+  total="1000"
+  paging-action="foo('bar', page)">
+</div>
+```
+
 #File changes
 
 * README.md: warn that there are some changes compared to main stream
