@@ -17,6 +17,8 @@ And the directive can be as simple as that
 </div>
 ```
 
+This widget is very pleasent to browse big data spaces like we enconter browsing database for example
+
 #File changes
 
 * README.md: warn that there are some changes compared to main stream
@@ -24,3 +26,10 @@ And the directive can be as simple as that
 * package.json: name of the package, +	"angular-paging": "^2.2.2", +	"bootstrap":"^3.3.7"
 * src/index.html: added the exact links to angula-paging and bootstrap js and css resources
 * src/main.js: adding 'bw.paging' angular directive to 'ui' application
+
+#What do we need to change?
+
+* The 'ui' application list of module => main.js adding the 'bw.paging' directive
+```javascript
+var app = angular.module('ui', ['ngMaterial', 'ngMdIcons', 'ngSanitize', 'sprintf', 'chart.js', 'bw.paging']);
+```
