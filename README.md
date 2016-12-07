@@ -1,6 +1,6 @@
-# differences compared to 2.2.0-beta
+# Warning: changes are made to 2.2.0-beta
 
-Added paging directive (which required bootstrap from twitter as well)
+Please read [architecture.md]
 
 # node-red-dashboard
 
