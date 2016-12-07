@@ -1,5 +1,9 @@
 #Introduction
 
+I wanted to add a new set of directive to dashboard dealing with a paging controller. I selected angular-paging directive [see](https://www.npmjs.com/package/angular-paging). 
+
+The result is that ![alt tag](https://raw.githubusercontent.com/brantwills/Angular-Paging/gh-pages/basicSample.png)
+
 #File changes
 
 * README.md: warn that there are some changes compared to main stream
