@@ -43,7 +43,7 @@ For more information about the bw.paging directive, please, [see](https://github
 "bootstrap":"^3.3.7"
 ```
 angular paging is doing the paging script
-bootsrtap is providing the widget (js and css) side
+bootstrap is providing the widget (js and css) side
 
 * We need then to add the resources in the index.html file
 
