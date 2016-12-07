@@ -1,6 +1,6 @@
 # Warning: changes are made to 2.2.0-beta
 
-Please read [architecture.md]
+Please read [architecture.md](architecture.md)
 
 # node-red-dashboard
 
