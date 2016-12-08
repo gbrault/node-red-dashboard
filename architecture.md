@@ -17,7 +17,7 @@ And the directive can be as simple as that
 </div>
 ```
 
-This widget is very pleasent to browse big data spaces like we enconter browsing database for example
+This widget is very pleasent to browse big data spaces like we enconter browsing database for example. You can see this [gist](https://github.com/gbrault/gistfiles/blob/master/knex/sql.md)
 
 #File changes
 
